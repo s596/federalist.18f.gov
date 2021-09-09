@@ -75,9 +75,9 @@ layout: default
       </section>
     </div>
   </div>
-  {% include homepage/agencies.html %}
-  {% include homepage/case-studies.html %}
-  {% include homepage/contact.html %}
-  {% include homepage/templates.html %}
-  {% include homepage/fact-sheets.html %}
+  {% include homepage/gsa.agencies.html %}
+  {% include homepage/gsa.case-studies.html %}
+  {% include homepage/gsa.contact.html %}
+  {% include homepage/gsa.templates.html %}
+  {% include homepage/gsa.fact-sheets.html %}
 </div>
